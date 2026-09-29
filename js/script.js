@@ -49,7 +49,7 @@ let phons = [
     },
     {
         id: 6,
-        imgurl: "images/samsung Galaxy A55 5G.png",
+        imgurl: "images/Samsung Galaxy A55 5G.png",
         name: "Samsung Galaxy A55 5G",
         price: 30000
     },
